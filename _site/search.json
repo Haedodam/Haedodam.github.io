@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Researcher",
+    "section": "",
+    "text": "Mixed Methods · Public Policy · Arts & Culture\n    \n      \n      who tells stories with data\n    \n    I combine interviews, statistical analysis in R, and data visualization to produce findings that get used — with a focus on the financial, labor, and policy conditions that support long-term sustainability in the arts sector.\n    \n      View Projects\n      Download Resume\n    \n  \n  \n\n\n\n  R · tidyverse · fixest\n  Panel Regression\n  GIS · Spatial Analysis\n  Mixed Methods\n  Shiny\n  Tableau\n  Policy Analysis\n  SMU DataArts\n  Data Visualization\n\n\n\n  Education\n  \n    \n      University of Illinois Chicago\n      M.S. Civic Analytics\n      2024 – 2026\n      Laurette Kirstein Scholarship · Chicago Consular Corps Grant\n    \n    \n      National Institute for Lifelong Education\n      B.A. Theatre\n      South Korea · 2021\n    \n    \n      Seoul Institute of the Arts\n      A.F.A. Theatre\n      South Korea · 2019\n    \n  \n\n\n\n  Selected Projects\n\n  \n  \n    01\n    \n      Featured \n      AAAE 47th Annual Conference · May 2026\n      Toward Self-Reliance: Policy Intervention Points in Chicago's Nonprofit Theatre\n      Mixed-methods study examining revenue structures and financial sustainability across 457 U.S. nonprofit theater organizations. Interviews + national panel data.\n      \n        Panel Regression\n        Mixed Methods\n        SMU DataArts\n        Arts Policy\n      \n    \n    →\n  \n  \n\n  \n  \n    02\n    \n      When More Funding Is Not Enough: Revenue Concentration & Labor Investment\n      Fixed-effects regression analysis on 4,131 observations showing how revenue concentration reduces personnel spending in nonprofit performing arts organizations.\n      \n        Fixed Effects\n        HHI Analysis\n        Nonprofit Finance\n      \n    \n    →\n  \n  \n\n  \n  \n    03\n    \n      Arts Education Access in Chicago: A Spatial & Predictive Analysis\n      GIS mapping, machine learning, and Shiny dashboard examining disparities in arts education access across Chicago neighborhoods.\n      \n        GIS\n        Machine Learning\n        Shiny\n        ACS Data\n      \n    \n    →\n  \n  \n\n  \n  \n    04\n    \n      Trauma Care Access in Cook County: A Policy Memo\n      Policy analysis with BOTEC cost estimation examining gaps in trauma care access and recommending targeted interventions for Cook County.\n      \n        Policy Memo\n        BOTEC Analysis\n        Public Health\n      \n    \n    →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]

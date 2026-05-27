@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "projects/05_Policy-Memo_Haedodam-Kim.pdf"
+
+website:
+  title: "Haedodam Kim"
+  favicon: favicon.ico
+  navbar:
+    background: white
+    foreground: "#1a1a1a"
+    pinned: true
+    container: xl
+    search: false
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Projects"
+        href: index.html#projects
+      - text: "Contact"
+        href: index.html#contact
+    right:
+      - icon: github
+        href: https://github.com/Haedodam
+      - icon: linkedin
+        href: https://linkedin.com/in/haedodamkim
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">

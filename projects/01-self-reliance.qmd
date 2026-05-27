@@ -1,0 +1,257 @@
+---
+title: ""
+---
+
+```{=html}
+<div class="page-container">
+  <div class="project-page">
+
+    <a href="../index.html#projects" class="back-link">
+      <i class="ti ti-arrow-left" aria-hidden="true"></i> Back to projects
+    </a>
+
+    <div class="proj-header">
+      <div class="proj-tags">
+        <span class="proj-tag tag-featured">Featured</span>
+        <span class="proj-tag tag-conf">AAAE 47th Annual Conference · May 2026</span>
+      </div>
+      <div class="proj-tags" style="margin-top: 6px;">
+        <span class="proj-tag tag-blue">Mixed Methods Research</span>
+        <span class="proj-tag tag-amber">Regression · In-Depth Interviews</span>
+        <span class="proj-tag tag-gray">Nonprofit Finance · Arts Policy</span>
+        <span class="proj-tag tag-teal">R</span>
+      </div>
+      <h1 class="proj-title">Organizational Capacity as a Policy Intervention Point: Financial Sustainability in U.S. Nonprofit Theater Organizations</h1>
+      <p class="proj-desc">What began as a Chicago-focused independent study grew into a national analysis — starting with in-depth interviews with 5 local theater organizations, then expanding to quantitative analysis of 457 U.S. nonprofits to examine how revenue structures and organizational capacity shape financial sustainability.</p>
+    </div>
+
+    <div class="proj-actions">
+      <a href="01_Independent-Study_Haedodam-Kim.pdf" target="_blank" class="btn-outline">
+        <i class="ti ti-file-description" aria-hidden="true"></i> Independent Study Report
+      </a>
+      <span class="btn-disabled">
+        <i class="ti ti-file-text" aria-hidden="true"></i> Full Paper (in progress)
+      </span>
+    </div>
+
+    <div class="proj-meta">
+      <div class="meta-item">
+        <p class="meta-label">Year</p>
+        <p class="meta-val">2025–2026</p>
+      </div>
+      <div class="meta-item">
+        <p class="meta-label">Type</p>
+        <p class="meta-val">Independent Study</p>
+      </div>
+      <div class="meta-item">
+        <p class="meta-label">Outcome</p>
+        <p class="meta-val">Presented at AAAE 47th Annual Conference · May 2026</p>
+      </div>
+      <div class="meta-item">
+        <p class="meta-label">Tools</p>
+        <p class="meta-val">R</p>
+      </div>
+    </div>
+
+    <div class="proj-stats">
+  <div class="stat-card">
+    <p class="stat-num stat-teal">2019–2023</p>
+    <p class="stat-label">fiscal years covered</p>
+  </div>
+  <div class="stat-card">
+    <p class="stat-num stat-blue">457</p>
+    <p class="stat-label">U.S. nonprofit theater organizations analyzed</p>
+  </div>
+  <div class="stat-card">
+    <p class="stat-num stat-amber">5</p>
+    <p class="stat-label">Chicago theater organizations interviewed</p>
+  </div>
+</div>
+
+    <div class="proj-section">
+      <h2 class="section-title">Project timeline</h2>
+      <div class="timeline">
+        <div class="tl-item">
+          <div class="tl-dot tl-done"></div>
+          <p class="tl-date">Oct – Nov 2025</p>
+          <p class="tl-title">Exploratory interviews</p>
+          <p class="tl-desc">Conducted in-depth interviews with 5 Chicago nonprofit theater organizations to identify structural constraints on earned-revenue generation and financial sustainability.</p>
+        </div>
+        <div class="tl-item">
+          <div class="tl-dot tl-done"></div>
+          <p class="tl-date">December 2025</p>
+          <p class="tl-title">Independent Study Report</p>
+          <p class="tl-desc">Cross-sectional analysis of 69 Chicago theaters — examining revenue structure types, deficit ratios, and operational characteristics. Supervised by Professor Yasen Peyankov, UIC.</p>
+        </div>
+        <div class="tl-item">
+          <div class="tl-dot tl-done"></div>
+          <p class="tl-date">Spring 2026</p>
+          <p class="tl-title">Expanded to national scale</p>
+          <p class="tl-desc">Extended the quantitative analysis to 457 U.S. nonprofit theater organizations and conducted an expanded literature review.</p>
+        </div>
+        <div class="tl-item">
+          <div class="tl-dot"></div>
+          <p class="tl-date">May 2026</p>
+          <p class="tl-title">Presented at AAAE 47th Annual Conference</p>
+          <p class="tl-desc">Presented findings in Pecha Kucha format at the Association for Arts Administration Educators 47th Annual Conference.</p>
+        </div>
+        <div class="tl-item">
+          <div class="tl-dot"></div>
+          <p class="tl-date">June 2026</p>
+          <p class="tl-title">Complete paper coming soon</p>
+        </div>
+      </div>
+    </div>
+
+ <div class="proj-section">
+  <h2 class="section-title">Key findings</h2>
+  <ul class="finding-list">
+    <li class="finding-item">
+      <div class="finding-icon fi-teal">
+        <i class="ti ti-users" aria-hidden="true"></i>
+      </div>
+      <p class="finding-text"><strong>Workforce size is positively associated with earned revenue.</strong> A one-unit increase in log workforce size is associated with a 5.2 percentage point increase in the earned revenue ratio (β=0.052, p&lt;.001), supporting the human capital hypothesis.</p>
+    </li>
+    <li class="finding-item">
+      <div class="finding-icon fi-blue">
+        <i class="ti ti-theater" aria-hidden="true"></i>
+      </div>
+      <p class="finding-text"><strong>Performance volume also matters.</strong> A one-unit increase in log performance occurrences is associated with a 3.4 percentage point increase in the earned revenue ratio (β=0.034, p&lt;.001), consistent with the programmatic capital hypothesis.</p>
+    </li>
+    <li class="finding-item">
+      <div class="finding-icon fi-gray">
+        <i class="ti ti-building" aria-hidden="true"></i>
+      </div>
+      <p class="finding-text"><strong>Space ownership shows no significant association with earned revenue.</strong> Contrary to expectations, whether an organization owns or rents its space is not meaningfully associated with the earned revenue ratio — suggesting physical capital operates through indirect mechanisms.</p>
+    </li>
+    <li class="finding-item">
+      <div class="finding-icon fi-amber">
+        <i class="ti ti-alert-triangle" aria-hidden="true"></i>
+      </div>
+      <p class="finding-text"><strong>Organizations with greater financial reserves earn less from the market — consistent with the starvation cycle.</strong> A higher equity ratio is negatively associated with earned revenue (β=−0.021, p&lt;.001), suggesting that organizations relying on contributed income may underinvest in capacity, reinforcing dependence on external funding.</p>
+    </li>
+  </ul>
+</div>
+
+    <div class="proj-section">
+  <h2 class="section-title">Implications</h2>
+  <p class="body-text">The findings suggest that public arts policy should function as capacity investment, not revenue substitution. When grants cover only program costs without supporting staffing or operational infrastructure, they risk deepening — rather than breaking — the nonprofit starvation cycle.</p>
+  <ul class="finding-list">
+    <li class="finding-item">
+      <div class="finding-icon fi-teal">
+        <i class="ti ti-users" aria-hidden="true"></i>
+      </div>
+      <p class="finding-text"><strong>Prioritize workforce investment.</strong> Shift from project-based grants to general operating support that explicitly covers personnel costs — the dimension most directly linked to earned revenue capacity.</p>
+    </li>
+    <li class="finding-item">
+      <div class="finding-icon fi-blue">
+        <i class="ti ti-theater" aria-hidden="true"></i>
+      </div>
+      <p class="finding-text"><strong>Support programmatic infrastructure.</strong> Touring grants, co-production funding, and multi-year program support can expand performance volume — the second strongest predictor of earned revenue.</p>
+    </li>
+    <li class="finding-item">
+      <div class="finding-icon fi-gray">
+        <i class="ti ti-building" aria-hidden="true"></i>
+      </div>
+      <p class="finding-text"><strong>Reconsider facility-focused policy.</strong> Space ownership shows no direct association with earned revenue. Policies centered on physical infrastructure may be less effective than those targeting operational capacity.</p>
+    </li>
+    <li class="finding-item">
+      <div class="finding-icon fi-amber">
+        <i class="ti ti-refresh" aria-hidden="true"></i>
+      </div>
+      <p class="finding-text"><strong>Design grants to break the starvation cycle.</strong> Funding structures should enable overhead investment — treating administrative and operational capacity as preconditions for self-reliance, not as waste.</p>
+    </li>
+  </ul>
+  <div class="highlight-box">Policy should function as capacity investment, not revenue substitution — shifting from short-term program outputs toward the organizational conditions that make earned revenue growth possible.</div>
+</div>
+
+<style>
+.btn-disabled {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 7px 16px;
+  background: transparent;
+  color: #bbb;
+  border: 0.5px solid #ddd;
+  border-radius: 6px;
+  cursor: default;
+}
+
+.tag-featured {
+  background: #2489b1;
+  color: #fff;
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+.tag-conf {
+  background: #daeef6;
+  color: #1a6f8a;
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+.timeline {
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 5px;
+  top: 8px;
+  bottom: 8px;
+  width: 1px;
+  background: #e5e5e5;
+}
+
+.tl-item {
+  position: relative;
+  padding-bottom: 1.5rem;
+}
+
+.tl-item:last-child { padding-bottom: 0; }
+
+.tl-dot {
+  position: absolute;
+  left: -1.5rem;
+  top: 4px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 2px solid #4ba8c8;
+  background: #fff;
+}
+
+.tl-dot.tl-done { background: #4ba8c8; }
+
+.tl-date {
+  font-size: 11px;
+  color: #999;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 4px;
+}
+
+.tl-title {
+  font-size: 14px;
+  font-weight: 500;
+  color: #1a1a1a;
+  margin-bottom: 4px;
+}
+
+.tl-desc {
+  font-size: 13px;
+  color: #666;
+  line-height: 1.6;
+}
+</style>
+```
