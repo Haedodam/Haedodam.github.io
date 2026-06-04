@@ -22,6 +22,9 @@ title: ""
       </div>
       <h1 class="proj-title">When More Funding Is Not Enough: Revenue Concentration and Labor Investment in Nonprofit Performing Arts Organizations</h1>
       <p class="proj-desc">Panel data analysis examining how public funding, private donations, and revenue concentration shape personnel expenses in nonprofit performing arts organizations, using the SMU DataArts National Dataset (2019–2024).</p>
+      <div class="highlight-box" style="margin-top: 1rem;">
+  Accepted for presentation at the 50th Annual STP&A Conference (October 2026) following peer review.
+</div>
       <div class="collab-note">
         <i class="ti ti-users" aria-hidden="true"></i>
         <span>Co-authored with Lizzy Jeong and Marietta Lopez Moreira. My contributions: data cleaning, fixed-effects regression analysis and robustness checks in R, and the Data, Methods, and Results sections.</span>
