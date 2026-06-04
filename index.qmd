@@ -158,6 +158,7 @@ title: "Home"
   <span class="proj-num">03</span>
   <div>
     <span class="team-badge">Team Project</span>
+    <span class="conf-badge">50th Annual STP&A Conference · October 2026</span>
     <p class="proj-title">When More Funding Is Not Enough: Revenue Concentration and Labor Investment in Nonprofit Performing Arts Organizations</p>
     <p class="proj-sub">Panel data analysis of 4,131 organization-year observations examining how revenue amount and concentration affect labor investment in nonprofit performing arts organizations — using SMU DataArts national dataset (2019–2024).</p>
     <div class="proj-tags">

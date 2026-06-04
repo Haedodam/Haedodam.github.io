@@ -13,6 +13,7 @@ title: ""
     <div class="proj-header">
       <div class="proj-tags">
         <span class="proj-tag tag-blue">Academic Paper</span>
+        <span class="proj-tag tag-conf">50th Annual STP&A Conference · October 2026</span>
         <span class="proj-tag tag-amber">Fixed Effects · HHI Analysis</span>
         <span class="proj-tag tag-gray">Nonprofit Labor · Finance · Arts Policy</span>
         <span class="proj-tag tag-teal">R · fixest · Quarto</span>
