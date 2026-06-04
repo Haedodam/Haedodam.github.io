@@ -81,7 +81,7 @@ title: ""
           <div class="tl-dot tl-done"></div>
           <p class="tl-date">December 2025</p>
           <p class="tl-title">Independent Study Report</p>
-          <p class="tl-desc">Cross-sectional analysis of 69 Chicago theaters — examining revenue structure types, deficit ratios, and operational characteristics. Supervised by Professor Yasen Peyankov, UIC.</p>
+          <p class="tl-desc">Cross-sectional analysis of 69 Chicago theaters — examining revenue structure types, deficit ratios, and operational characteristics. Supervised by Professor Yasen Peyankov, University of Illinois Chicago.</p>
         </div>
         <div class="tl-item">
           <div class="tl-dot tl-done"></div>
@@ -90,10 +90,11 @@ title: ""
           <p class="tl-desc">Extended the quantitative analysis to 457 U.S. nonprofit theater organizations and conducted an expanded literature review.</p>
         </div>
         <div class="tl-item">
-          <div class="tl-dot"></div>
+          <div class="tl-dot tl-done"></div>
           <p class="tl-date">May 2026</p>
           <p class="tl-title">Presented at AAAE 47th Annual Conference</p>
           <p class="tl-desc">Presented findings in Pecha Kucha format at the Association for Arts Administration Educators 47th Annual Conference.</p>
+          <img src="aaae-conference.jpg" alt="AAAE Conference Presentation" style="width:100%; max-width:400px; border-radius:8px; margin-top:8px;">
         </div>
         <div class="tl-item">
           <div class="tl-dot"></div>

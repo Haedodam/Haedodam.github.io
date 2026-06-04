@@ -76,7 +76,7 @@ title: "Home"
     </div>
     <ul class="work-bullets">
       <li>Planned and executed 6 cultural and educational events for Pacific Islander students under the U.S. Department of Education-funded AANAPISI Initiative.</li>
-      <li>Developed outreach communications through social media (Instagram, 62 followers), monthly newsletter (350+ subscribers), and promotional materials.</li>
+      <li>Developed outreach communications through social media, monthly newsletter (350+ subscribers), and promotional materials.</li>
       <li>Coordinated with external universities and Pacific Islander community organizations in Chicago to support partnerships and co-plan joint cultural events.</li>
     </ul>
   </div>
@@ -141,7 +141,7 @@ title: "Home"
     <div>
       <span class="team-badge">Team Project</span>
       <p class="proj-title">Student Enrollment Patterns in a Public Affairs Graduate Program: A 10-Year Trend Analysis</p>
-      <p class="proj-sub">Analysis of 10 years of student enrollment records across UIC's MPA, MPP, and MSCA programs — examining course sequencing, course load, time to degree, and shifting subject preferences.</p>
+      <p class="proj-sub">Analysis of 10 years of student enrollment records across Department of Public Policy, Management, and Analytics's MPA, MPP, and MSCA programs — examining course sequencing, course load, time to degree, and shifting subject preferences.</p>
       <div class="proj-tags">
         <span class="proj-tag tag-blue">Capstone Project</span>
         <span class="proj-tag tag-amber">Descriptive Statistics · Trend Analysis</span>
